@@ -1,7 +1,6 @@
 ---
 title: Helix 模式 - Zed
-description: Zed 中的 Helix 风格键盘快捷键和模态编辑。
-基于 Vim 模式构建的优先选择编辑。
+description: Zed 中的 Helix 风格键盘快捷键和模态编辑。基于 Vim 模式构建的优先选择编辑。
 ---
 
 # Helix 模式

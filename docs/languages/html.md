@@ -34,7 +34,7 @@ HTML 支持可通过 [HTML 扩展](https://github.com/zed-industries/zed/tree/ma
   }
 ```
 
-您仍然可以通过 {#kb editor::Format} 手动触发格式化，或通过打开[命令面板](..//getting-started.md#command-palette) ({#kb command_palette::Toggle}) 并选择“格式化文档”。
+您仍然可以通过 {#kb editor::Format} 手动触发格式化，或通过打开[命令面板](../index.md#command-palette) ({#kb command_palette::Toggle}) 并选择“格式化文档”。
 
 ### LSP 格式化
 
