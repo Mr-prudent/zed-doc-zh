@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -1 src-translated/*.md)",
+      "Bash(ls docs/*.md)",
+      "Bash(ls -d docs/*/)"
+    ]
+  }
+}
